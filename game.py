@@ -48,7 +48,6 @@ double_letter_tiles = [
     (7, 3), (7, 11), (8, 2), (8, 6), (8, 8), (8, 12), (11, 0), (11, 7), (11, 14), (12, 6), (12, 8),
     (14, 3), (14, 11)
 ]
-print("triple_word_tiles",triple_word_tiles)
 # Draw the board grid
 def draw_board():
     screen.fill(Purple)
